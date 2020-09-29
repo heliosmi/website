@@ -8943,6 +8943,8 @@ button.bg-black:focus {
   .mb-lg-0,
 .my-lg-0 {
     margin-bottom: 0 !important;
+    margin-left: 10%;
+    width: 15%
   }
 
   .ml-lg-0,
