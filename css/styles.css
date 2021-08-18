@@ -230,6 +230,7 @@ th {
 label {
   display: inline-block;
   margin-bottom: 0.5rem;
+  color: #fff;
 }
 
 button {
@@ -252,6 +253,11 @@ textarea {
   line-height: inherit;
 }
 
+textarea, input{
+  margin-right: 10px;
+  width:  100%;
+}
+
 button,
 input {
   overflow: visible;
@@ -268,6 +274,7 @@ select {
 
 select {
   word-wrap: normal;
+  width:  100%;
 }
 
 button,
@@ -10288,7 +10295,6 @@ body {
   background: #000000;
 }
 .about-section p {
-  margin-bottom: 5rem;
 }
 
 .projects-section {
